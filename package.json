@@ -82,8 +82,8 @@
   "license": "MIT",
   "dependencies": {
     "webpack-bundle-analyzer": "4.5.0",
-    "@babel/preset-typescript": "7.15.0",
-    "@babel/core": "7.16.7",
+    "@babel/preset-typescript": "7.16.7",
+    "@babel/core": "7.17.5",
     "husky": "7.0.4",
     "lerna": "4.0.0",
     "lint-staged": "12.1.5",
@@ -92,10 +92,10 @@
   },
   "resolutions": {
     "mini-css-extract-plugin": "2.4.7",
-    "@babel/core": "7.16.7",
-    "@babel/parser": "7.16.8",
-    "@babel/traverse": "7.16.8",
-    "@babel/types": "7.16.8"
+    "@babel/core": "7.17.5",
+    "@babel/parser": "7.17.3",
+    "@babel/traverse": "7.17.3",
+    "@babel/types": "7.17.0"
   },
   "workspaces": {
     "packages": [
